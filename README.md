@@ -1,4 +1,4 @@
-# Neuroevolution-BUET
+# Neuroevolution
 
 Installation Guideline - 
 
